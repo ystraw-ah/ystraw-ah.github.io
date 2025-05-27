@@ -1,5 +1,5 @@
 primary_name: "Xin Ai"
-secondary_name: "(call me Aigger 👨‍❤️‍👨)"
+secondary_name: ""
 navbar_name: "Xin Ai"
 
 positions:
@@ -41,8 +41,12 @@ education:
   date: Sep. 2024 - present
 - name: Northeastern University
   logo: /assets/images/badges/neu.jpg
-  position: B.S. in Computer Science
+  position: M.S. in Computer Science
   date: Sep. 2021 - Jul. 2024
+- name: Northeastern University
+  logo: /assets/images/badges/neu.jpg
+  position: B.S. in Computer Science
+  date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
