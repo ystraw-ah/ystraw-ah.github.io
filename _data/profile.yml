@@ -1,6 +1,6 @@
-primary_name: "Xin Ai"
-secondary_name: "艾新"
-navbar_name: "Xin Ai"
+primary_name: "Song Yu"
+secondary_name: "余松"
+navbar_name: "Song Yu"
 
 positions:
 - logo: /assets/images/badges/neu.jpg  # Logo is optional
@@ -8,10 +8,10 @@ positions:
 # - name: Position 2 without logo
 
 
-email: "aixin0@stumail.neu.edu.cn"
+email: "yusong@stumail.neu.edu.cn"
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: AiX-im
+github: ystraw-ah
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -22,31 +22,31 @@ github: AiX-im
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a second-year Ph.D. student in Computer Science at <a href="https://english.neu.edu.cn" target="_blank">Northeastern University (China)</a>, supervised by 
+    I am a thrid-year Ph.D. student in Computer Science at <a href="https://english.neu.edu.cn" target="_blank">Northeastern University (China)</a>, supervised by 
 
-    Prof. <a href="http://faculty.neu.edu.cn/yuge/en/index.htm" target="_blank">Ge Yu</a> and Prof. <a href="https://faculty.neu.edu.cn/zhangyf/en/index.htm" target="_blank">Yanfeng Zhang</a>.
+    Prof. <a href="https://faculty.neu.edu.cn/zhangyf/en/index.htm" target="_blank">Yanfeng Zhang</a>.
   </p>
   <p>
-    I’m interested in building distributed and parallel graph processing systems. I am also interested in GPU-accelerated data management.
+    I am interested in dynamic graph processing and storage systems and vector databases.
   </p>
 
-portrait_url: /assets/images/photos/aix.jpg
+portrait_url: /assets/images/photos/ys.jpg
 # portrait_caption: >-
   # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-education:
-- name: Northeastern University
-  logo: /assets/images/badges/neu.jpg
-  position: Ph.D. Student
-  date: Sep. 2023 - present
-- name: Northeastern University
-  logo: /assets/images/badges/neu.jpg
-  position: M.S. in Computer Science
-  date: Sep. 2021 - Jul. 2023
-- name: Northeastern University
-  logo: /assets/images/badges/neu.jpg
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+# education:
+# - name: Northeastern University
+#   logo: /assets/images/badges/neu.jpg
+#   position: Ph.D. Student
+#   date: Sep. 2023 - present
+# - name: Northeastern University
+#   logo: /assets/images/badges/neu.jpg
+#   position: M.S. in Computer Science
+#   date: Sep. 2021 - Jul. 2023
+# - name: Northeastern University
+#   logo: /assets/images/badges/neu.jpg
+#   position: B.S. in Computer Science
+#   date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
@@ -54,8 +54,8 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: National Scholarship of China
-  date: 2024
-- name: The champion in China’s first CCF Graph Computing Challenge  
-  date: 2023
+# awards:
+# - name: National Scholarship of China
+#   date: 2024
+# - name: The champion in China’s first CCF Graph Computing Challenge  
+#   date: 2023
