@@ -1,18 +1,18 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Xin Ai"
+secondary_name: "(call me Aigger 👨‍❤️‍👨)"
+navbar_name: "Xin Ai"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/neu.jpg  # Logo is optional
+  name: PhD student @ Northeastern University
+# - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "aixin0@stumail.neu.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: AiX-im
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,29 +22,27 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a second-year Ph.D. student in Computer Science at <a href="https://english.neu.edu.cn" target="_blank">Northeastern University (China)</a>, supervised by 
+
+    Prof. <a href="http://faculty.neu.edu.cn/yuge/en/index.htm" target="_blank">Ge Yu</a> and Prof. <a href="https://faculty.neu.edu.cn/zhangyf/en/index.htm" target="_blank">Yanfeng Zhang</a>.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I’m interested in building distributed and parallel graph processing systems. I am also interested in GPU-accelerated data management.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/photo-aix.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
+- name: Northeastern University
+  logo: /assets/images/badges/neu.jpg
+  position: Ph.D. Student
   date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+- name: Northeastern University
+  logo: /assets/images/badges/neu.jpg
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2021 - Jul. 2024
 
 # experience:
 # - name: Peking University
@@ -53,9 +51,7 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: National Scholarship of China
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: The champion in China’s first CCF Graph Computing Challenge  
+  date: 2023
