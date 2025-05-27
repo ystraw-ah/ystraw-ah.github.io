@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   This paper reviews GNN training from a data management perspective and provides a comprehensive analysis and evaluation of the representative approaches. We conduct extensive experiments on various benchmark datasets and show many interesting and valuable results. We also provide some practical tips learned from these experiments, which are helpful for designing GNN training systems in the future.
-cover:          /assets/images/covers/neutronbench.png
+cover:          /assets/images/covers/vldb-neutronbench.png
 authors:
   - Hao Yuan
   - Yajiong Liu
