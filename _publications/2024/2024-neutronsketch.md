@@ -1,7 +1,7 @@
 ---
 title:          "NeutronSketch: An in-depth exploration of redundancy in large-scale graph neural network training"
 date:           2024-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "knowledge-based-systems (KBS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -16,7 +16,7 @@ authors:
   - Yanfeng Zhang
   - Qiange Wang
   - Hao Yuan
-  - Xin Ai
+  - "<b style='font-weight:900;color:#000;'>Xin Ai</b>"
   - Ge Yu
 links:
   Code: https://github.com/iDC-NEU/Neutronsketch-KBS

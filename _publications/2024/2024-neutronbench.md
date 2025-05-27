@@ -1,7 +1,7 @@
 ---
 title:          "Comprehensive Evaluation of GNN Training Systems: A Data Management Perspective"
 date:           2024-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Very Large Data Bases (VLDB)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -15,7 +15,7 @@ authors:
   - Hao Yuan
   - Yajiong Liu
   - Yanfeng Zhang
-  - Xin Ai
+  - "<b style='font-weight:900;color:#000;'>Xin Ai</b>"
   - Qiange Wang
   - Chaoyi Chen
   - Yu Gu

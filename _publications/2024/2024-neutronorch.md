@@ -12,7 +12,7 @@ abstract: >-
   In this paper, we propose NeutronOrch, a system for sample-based GNN training that incorporates a layer-based task orchestrating method and ensures balanced utilization of the CPU and GPU. NeutronOrch decouples the training process by layer and pushes down the training task of the bottom layer to the CPU. This significantly reduces the computational load and memory footprint of GPU training. 
 cover:          /assets/images/covers/vldb-neutronorch.png
 authors:
-  - Xin Ai
+  - "<b style='font-weight:900;color:#000;'>Xin Ai</b>"
   - Qiange Wang
   - Chunyu Cao
   - Yanfeng Zhang

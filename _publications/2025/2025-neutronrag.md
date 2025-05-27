@@ -1,7 +1,7 @@
 ---
 title:          "NeutronRAG: Towards Understanding the Effectiveness of RAG from a Data Retrieval Perspective [Demo]"
 date:           2025-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Proceedings of the International Conference on Management of Data (SIGMOD)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -18,7 +18,7 @@ authors:
   - Zhenbo Fu
   - Xinbo Yang
   - Qiange Wang
-  - Xin Ai
+  - "<b style='font-weight:900;color:#000;'>Xin Ai</b>"
   - Yanfeng Zhang
   - Yingyou Wen
   - Ge Yu

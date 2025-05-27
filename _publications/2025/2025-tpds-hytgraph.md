@@ -1,7 +1,7 @@
 ---
 title:          "Towards Communication-Efficient Out-of-Core Graph Processing on the GPU"
 date:           2025-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE Transactions on Parallel and Distributed Systems (TPDS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/tpds-hytgraph.png
 authors:
   - Qiange Wang
-  - Xin Ai
+  - "<b style='font-weight:900;color:#000;'>Xin Ai</b>"
   - Yongze Yan
   - Yanfeng Zhang
   - Jing Chen

@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/icde-hytgraph.png
 authors:
   - Qiange Wang*
-  - Xin Ai*
+  - "<b style='font-weight:900;color:#000;'>Xin Ai*</b>"
   - Yanfeng Zhang
   - Jing Chen
   - Ge Yu

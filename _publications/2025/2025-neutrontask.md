@@ -13,9 +13,9 @@ abstract: >-
 cover:          /assets/images/covers/vldb-neutrontask.png
 authors:
   - Zhenbo Fu*
-  - Xin Ai*
+  - "<b style='font-weight:900;color:#000;'>Xin Ai*</b>"
+  - Qiange Wang
   - Yanfeng Zhang
-  - Xin Ai
   - Shizhan Lu
   - Chaoyi Chen
   - Chunyu Cao
