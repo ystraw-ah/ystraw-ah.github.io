@@ -1,7 +1,7 @@
 ---
 title:          "Ingress: an automated incremental graph processing system"
 date:           2024-01-01 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "VLDB J"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

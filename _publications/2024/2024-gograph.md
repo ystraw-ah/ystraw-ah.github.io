@@ -16,7 +16,7 @@ authors:
   - Shufeng Gong
   - Feng Yao
   - Hanzhang Chen
-  - Song Yu
+  - "<b style='font-weight:900;color:#000;'>Song Yu</b>"
   - Pengxi Liu
   - Yanfeng Zhang
   - Ge Yu
