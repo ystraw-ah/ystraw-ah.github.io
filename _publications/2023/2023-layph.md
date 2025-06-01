@@ -10,7 +10,8 @@ pub_date:       "2023"
 
 abstract: >-
   We propose Layph, a two-layered graph framework. The upper layer is a skeleton of the graph which is much smaller than the original graph, and the lower layer has some disjoint subgraphs. Layph limits costly global iterative computations on the original graph to the small graph skeleton and a few subgraphs updated with the input graph changes. In this way, many vertices and edges are not involved in iterative computations, which significantly reduces the computation overhead and improves the performance of incremental graph processing.
-cover:          /assets/images/covers/icde-hytgraph.png
+
+# cover:          /assets/images/covers/icde-hytgraph.png
 authors:
   - "<b style='font-weight:900;color:#000;'>Song Yu</b>"
   - Shufeng Gong
@@ -23,8 +24,8 @@ authors:
   - Ge Yu
   - Jingren Zhou
 links:
-  Code: https://github.com/iDC-NEU/Layph
   Paper: https://ieeexplore.ieee.org/abstract/document/10184661
+  Code: https://github.com/iDC-NEU/Layph
 ---
 
 

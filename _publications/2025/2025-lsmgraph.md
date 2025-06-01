@@ -10,6 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   We propose LSMGraph, a novel dynamic graph storage system that combines the write-friendly LSM-tree and the read-friendly CSR. It leverages the multi-level structure of LSM-trees to optimize write performance while utilizing the compact CSR structures embedded in the LSM-trees to boost read performance. LSMGraph uses a new memory structure, MemGraph, to efficiently cache graph updates and uses a multi-level index to speed up reads within the multi-level structure. Furthermore, LSMGraph incorporates a vertex-grained version control mechanism to mitigate the impact of LSM-tree compaction on read performance and ensure the correctness of concurrent read and write operations.
+
 # cover:          /assets/images/covers/sigmod-neutronrag.png
 authors:
   - Song Yu
@@ -24,8 +25,8 @@ authors:
   - Ge Yu
   - Jingren Zhou
 links:
-  # Code: https://github.com/iDC-NEU/NeutronRAG
   Paper: https://dl.acm.org/doi/10.1145/3698818
+  # Code: https://github.com/iDC-NEU/NeutronRAG
 ---
 
 
