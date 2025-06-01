@@ -25,6 +25,7 @@ authors:
 links:
   Paper: https://dl.acm.org/doi/abs/10.14778/3461535.3461550
   Code: https://github.com/gongsf-neu/Ingress
+  Slides: https://idc-neu.github.io/slides/Ingress-VLDB-Gong.pdf
 ---
 
 

@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   We present GastCoCo, a system with graph storage and coroutine-based prefetch co-design. By employing software prefetching via stackless coroutines and designing a prefetch-friendly data structure CBList, GastCoCo significantly alleviates the performance degradation caused by cache misses.
-  
+
 # cover:          /assets/images/covers/vldb-neutronorch.png
 authors:
   - Hongfu Li
@@ -26,5 +26,4 @@ authors:
 links:
   Paper: https://dl.acm.org/doi/10.14778/3704965.3704986
   Code: https://github.com/iDC-NEU/NeutronOrch
-  Slides: https://idc-neu.github.io/slides/NeutronOrch_VLDB24.pdf
 ---

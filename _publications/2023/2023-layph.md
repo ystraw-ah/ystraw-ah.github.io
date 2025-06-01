@@ -26,6 +26,7 @@ authors:
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10184661
   Code: https://github.com/iDC-NEU/Layph
+  Slides: https://github.com/iDC-NEU/iDC-NEU.github.io/blob/master/slides/Layph_ICDE23.pdf
 ---
 
 

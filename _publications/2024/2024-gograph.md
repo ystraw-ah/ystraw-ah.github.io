@@ -25,4 +25,5 @@ authors:
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10597711
   Code: https://github.com/iDC-NEU/GoGraph
+  Slides: https://github.com/iDC-NEU/iDC-NEU.github.io/blob/master/slides/GoGraph_ICDE24.pdf
 ---
