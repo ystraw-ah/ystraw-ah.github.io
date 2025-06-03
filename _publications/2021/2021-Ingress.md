@@ -10,7 +10,7 @@ pub_date:       "2021"
 
 abstract: >-
   We propose Ingress, an automated system for incremental graph processing. Ingress is able to incrementalize batch vertex-centric algorithms into their incremental counterparts as a whole, without the need of redesigned logic or data structures from users. Underlying Ingress is an automated incrementalization framework equipped with four different memoization policies, to support all kinds of vertex-centric computations with optimized memory utilization. We identify sufficient conditions for the applicability of these policies. Ingress chooses the best-fit policy for a given algorithm automatically by verifying these conditions. 
-# cover:          /assets/images/covers/sigmod-neutronheter.png
+cover:          /assets/images/covers/VLDB21-Ingress.jpg
 authors:
   - Shufeng Gong
   - Chao Tian
