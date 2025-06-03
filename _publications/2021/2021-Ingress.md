@@ -1,6 +1,6 @@
 ---
 title:          "Automating Incremental Graph Processing with Flexible Memoization"
-date:           2021-01-01 00:01:00 +0800
+date:           2021-02-01 00:01:00 +0800
 selected:       true
 pub:            "Very Large Data Bases (VLDB)"
 # pub_pre:        "Submitted to "
