@@ -1,6 +1,6 @@
 ---
 title:          "LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-level CSR"
-# date:           2025-01-01 00:01:00 +0800
+date:           2025-01-01 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the International Conference on Management of Data (SIGMOD)"
 # pub_pre:        "Submitted to "
