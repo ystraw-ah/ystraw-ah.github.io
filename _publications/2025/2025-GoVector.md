@@ -1,8 +1,8 @@
 ---
-title:          "GoVector:基于向量相似性的I/O高效向量近邻查询缓存策略."
+title:          "GoVector:基于向量相似性的I/O高效向量近邻查询缓存策略 (GoVector: An I/O-Efficient Caching Strategy for High-Dimensional Vector Neighbor Search)"
 # date:           2025-01-01 00:01:00 +0800
 selected:       true
-pub:            "Proceedings of the International Conference on Management of Data (SIGMOD)"
+pub:            "软件学报, 2025, 37(3): 0-0."
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
