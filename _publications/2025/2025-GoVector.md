@@ -20,6 +20,6 @@ authors:
   - 张岩峰
   - 于戈
 links:
-  Paper: https://jos.org.cn/jos/article/abstract/qu015
+  Paper: https://www.jos.org.cn/jos/article/abstract/7518
   # Code: https://github.com/iDC-NEU/NeutronRAG
 ---
